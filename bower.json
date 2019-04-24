@@ -1,0 +1,21 @@
+{
+  "name": "purescript-simple-json-utils",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-simple-json-utils.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-simple-json": "^5.1.0",
+    "purescript-motsunabe": "^1.0.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^4.1.0"
+  }
+}
